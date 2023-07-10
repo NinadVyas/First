@@ -1,6 +1,6 @@
 Welcome to the NextJS base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
 
-## Getting Started
+# Getting Started
 
 Hit the run button to start the development server.
 
